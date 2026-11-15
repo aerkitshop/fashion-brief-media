@@ -14,8 +14,11 @@
         {
           "type": "frame",
           "id": "vCTKM",
+          "x": 0,
+          "y": 0,
           "name": "Header",
-          "width": "fill_container",
+          "enabled": false,
+          "width": "fill_container(1440)",
           "height": 68,
           "fill": "$white",
           "stroke": "$line",
@@ -1140,7 +1143,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "i5NjE",
+                      "id": "Nzu08",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -1152,7 +1155,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "EG6EU",
+                          "id": "j65Ywa",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -1164,7 +1167,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "jCNpe",
+                          "id": "jvQYb",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "20.6 oz",
@@ -1175,7 +1178,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "K4Wv0",
+                          "id": "xya03",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$350",
@@ -1186,7 +1189,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "Pr8Id",
+                          "id": "ooN1q",
                           "name": "Button Buy · Enlightened Equipment",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -1201,7 +1204,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "FrK58",
+                              "id": "qHE3M",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Enlightened Equipment",
@@ -1215,7 +1218,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "qw7nL",
+                      "id": "kCiMb",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -1227,7 +1230,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "MFlzH",
+                          "id": "GvSoj",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -1239,7 +1242,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "rjAUG",
+                          "id": "Gv6RP",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "15.0 oz",
@@ -1250,7 +1253,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "yQptM",
+                          "id": "XHEr1",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$260",
@@ -1261,7 +1264,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "xqmwk",
+                          "id": "W8ksR",
                           "name": "Button Buy · Enlightened Equipment",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -1276,7 +1279,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "GrU11",
+                              "id": "dPoJs",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Therm-a-Rest",
@@ -1290,7 +1293,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "FedoF",
+                      "id": "TJzKI",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -1302,7 +1305,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "NVeht",
+                          "id": "FzC3m",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -1314,7 +1317,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "M0eFC2",
+                          "id": "R7m4s",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "2.6 oz",
@@ -1325,7 +1328,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "j12SFa",
+                          "id": "HAJyv",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$55",
@@ -1336,7 +1339,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "gTsFA",
+                          "id": "GhvbZ",
                           "name": "Button Buy · Enlightened Equipment",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -1351,7 +1354,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "pf2c0",
+                              "id": "j5iCHW",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Sea to Summit",
@@ -1424,7 +1427,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "earpm",
+                      "id": "d9ulw",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -1436,7 +1439,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "mTsPY",
+                          "id": "g7m8T",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -1448,7 +1451,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "b6gZJ",
+                          "id": "jAX89",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "31.5 oz",
@@ -1459,7 +1462,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "S70ev",
+                          "id": "DvCIa",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$295",
@@ -1470,7 +1473,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "QLDbG",
+                          "id": "icscT",
                           "name": "Button Buy · Hyperlite Mountain Gear",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -1485,7 +1488,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "H1E3E",
+                              "id": "h6sWSP",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Gossamer Gear",
@@ -1499,7 +1502,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "Him93",
+                      "id": "e0vRtb",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -1511,7 +1514,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "boQKE",
+                          "id": "i04GZ",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -1523,7 +1526,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "qkS5G",
+                          "id": "a1dWVu",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "1.0 oz",
@@ -1534,7 +1537,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "G5wiqa",
+                          "id": "lclGp",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$12",
@@ -1545,7 +1548,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "uNhA1",
+                          "id": "vLnls",
                           "name": "Button Buy · Hyperlite Mountain Gear",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -1560,7 +1563,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "leaDj",
+                              "id": "hI3sk",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Gossamer Gear",
@@ -1633,7 +1636,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "a43oft",
+                      "id": "HzbHq",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -1645,7 +1648,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "BD9XW",
+                          "id": "H3gKkG",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -1657,7 +1660,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "A0RLED",
+                          "id": "qsEY9",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "31.0 oz",
@@ -1668,7 +1671,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "s28Oew",
+                          "id": "T8uNiT",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$450",
@@ -1679,7 +1682,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "WtllC",
+                          "id": "r5k3Rt",
                           "name": "Button Buy · Zpacks",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -1694,7 +1697,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "fJ05A",
+                              "id": "VXHYT",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Big Agnes",
@@ -1708,7 +1711,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "eB9Wy",
+                      "id": "K17YD",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -1720,7 +1723,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "z6chz",
+                          "id": "IiZAm",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -1732,7 +1735,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "ymAmo",
+                          "id": "X2b5Nb",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "1.5 oz",
@@ -1743,7 +1746,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "D2RRI",
+                          "id": "p27tb",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$15",
@@ -1754,7 +1757,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "A32hFC",
+                          "id": "igmVu",
                           "name": "Button Buy · Zpacks",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -1769,7 +1772,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "R4Ifi",
+                              "id": "k4GGOv",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Gossamer Gear",
@@ -1842,7 +1845,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "cgh93",
+                      "id": "GzcWi",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -1854,7 +1857,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "akxL1",
+                          "id": "R2gXn",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -1866,7 +1869,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "cBlYL",
+                          "id": "J86t5",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "12.1 oz",
@@ -1877,7 +1880,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "nxam4",
+                          "id": "nKBiC",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$279",
@@ -1888,7 +1891,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "jmpxd",
+                          "id": "ML4Ad",
                           "name": "Button Buy · Montbell",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -1903,7 +1906,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "PKJzE",
+                              "id": "g4ZC34",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Patagonia",
@@ -1917,7 +1920,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "NV0N2",
+                      "id": "v2uOd",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -1929,7 +1932,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "h5pIb",
+                          "id": "UunsL",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -1941,7 +1944,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "c1nSCA",
+                          "id": "u0AbM",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "6.3 oz",
@@ -1952,7 +1955,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "Hp3O2",
+                          "id": "y8K90",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$175",
@@ -1963,7 +1966,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "u4HcQ",
+                          "id": "PB8el",
                           "name": "Button Buy · Montbell",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -1978,7 +1981,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "G5eFwl",
+                              "id": "r6uior",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Outdoor Research",
@@ -1992,7 +1995,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "zXpMt",
+                      "id": "WRBwS",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -2004,7 +2007,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "wDVfi",
+                          "id": "sXtAf",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -2016,7 +2019,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "T0Qopb",
+                          "id": "aD4zO",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "11.6 oz",
@@ -2027,7 +2030,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "G4yuBA",
+                          "id": "Pyge5",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$75",
@@ -2038,7 +2041,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "PJ765",
+                          "id": "OJvIJ",
                           "name": "Button Buy · Montbell",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -2053,7 +2056,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "aJPVn",
+                              "id": "ikCZI",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Kahtoola",
@@ -2067,7 +2070,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "yzhYU",
+                      "id": "gb97y",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -2079,7 +2082,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "vM7Jh",
+                          "id": "PanpF",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -2091,7 +2094,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "OgH7Y",
+                          "id": "QyIMS",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "1.4 oz",
@@ -2102,7 +2105,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "zGrHq",
+                          "id": "AiCqt",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$30",
@@ -2113,7 +2116,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "oZaXm",
+                          "id": "n9AMf",
                           "name": "Button Buy · Montbell",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -2128,7 +2131,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "R4aF9D",
+                              "id": "O3BJl7",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Black Diamond",
@@ -2142,7 +2145,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "gtGcE",
+                      "id": "UqWaG",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -2154,7 +2157,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "nWSu8",
+                          "id": "aFZjR",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -2166,7 +2169,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "sMTy7",
+                          "id": "SgDCg",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "2.6 oz",
@@ -2177,7 +2180,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "FevTl",
+                          "id": "z0EnTt",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$27",
@@ -2188,7 +2191,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "Z3qej",
+                          "id": "L6HVSm",
                           "name": "Button Buy · Montbell",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -2203,7 +2206,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "UHhIs",
+                              "id": "X1AvDA",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Darn Tough",
@@ -2217,7 +2220,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "ceQf8",
+                      "id": "w358K",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -2229,7 +2232,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "TXVhQ",
+                          "id": "VjQXd",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -2241,7 +2244,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "Yqe6Y",
+                          "id": "BU7SI",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "2.7 oz",
@@ -2252,7 +2255,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "OnfyQ",
+                          "id": "u2kOQf",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$45",
@@ -2263,7 +2266,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "q9bau6",
+                          "id": "wqLZa",
                           "name": "Button Buy · Montbell",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -2278,7 +2281,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "uv1BT",
+                              "id": "pgDBX",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Outdoor Research",
@@ -2351,7 +2354,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "DOw7V",
+                      "id": "uKmZI",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -2363,7 +2366,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "Vxglz",
+                          "id": "rhR54",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -2375,7 +2378,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "P9qX1Z",
+                          "id": "YFtJo",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "2.9 oz",
@@ -2386,7 +2389,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "bdZCv",
+                          "id": "n9Rtn",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$85",
@@ -2397,7 +2400,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "kvhJm",
+                          "id": "POuX8",
                           "name": "Button Buy · MSR",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -2412,7 +2415,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "rWvJ7",
+                              "id": "DJZqw",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · MSR",
@@ -2426,7 +2429,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "oMouD",
+                      "id": "kmC2x",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -2438,7 +2441,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "Q01oA5",
+                          "id": "toFPV",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -2450,7 +2453,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "b36VGo",
+                          "id": "xbIFI",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "3.6 oz",
@@ -2461,7 +2464,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "Wc8cI",
+                          "id": "LxOpZ",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$40",
@@ -2472,7 +2475,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "kJxw9",
+                          "id": "MITdI",
                           "name": "Button Buy · MSR",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -2487,7 +2490,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "baRVG",
+                              "id": "WjAs8",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · TOAKS",
@@ -2501,7 +2504,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "a7u7vR",
+                      "id": "eGqvN",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -2513,7 +2516,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "uCCF1",
+                          "id": "a6Pqb",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -2525,7 +2528,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "AcwQE",
+                          "id": "VEun6",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "0.4 oz",
@@ -2536,7 +2539,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "JtHhl",
+                          "id": "ZPy1g",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$13",
@@ -2547,7 +2550,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "Xmh28",
+                          "id": "D9CGR0",
                           "name": "Button Buy · MSR",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -2562,7 +2565,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "E8ZHVf",
+                              "id": "bv4ys",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Sea to Summit",
@@ -2576,7 +2579,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "x1qFP",
+                      "id": "gRLaI",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -2588,7 +2591,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "gOTIo",
+                          "id": "M71vn",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -2600,7 +2603,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "W7Ti7",
+                          "id": "DH2WD",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "0.4 oz",
@@ -2611,7 +2614,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "tmZqS",
+                          "id": "TozLX",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$3",
@@ -2622,7 +2625,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "Alltg",
+                          "id": "ntH6a",
                           "name": "Button Buy · MSR",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -2637,7 +2640,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "NCmRd",
+                              "id": "j10Blm",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Bic",
@@ -2706,7 +2709,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "oLocq",
+                      "id": "VOrGn",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -2718,7 +2721,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "t2vvwt",
+                          "id": "B7Lvq",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -2730,7 +2733,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "LamKv",
+                          "id": "KJoTI",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "2.3 oz",
@@ -2741,7 +2744,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "fkqtz",
+                          "id": "SMxZk",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$45",
@@ -2752,7 +2755,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "Ez6dk",
+                          "id": "Y0Nfo",
                           "name": "Button Buy · Sawyer",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -2767,7 +2770,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "h12It",
+                              "id": "I0XNRh",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Katadyn",
@@ -2781,7 +2784,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "l7MZ4",
+                      "id": "n084xi",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -2793,7 +2796,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "RZCqU",
+                          "id": "cb9x7",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -2805,7 +2808,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "vSMvm",
+                          "id": "G8Si41",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "6.7 oz",
@@ -2816,7 +2819,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "FPt73",
+                          "id": "PbwXL",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$40",
@@ -2827,7 +2830,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "vOV3N",
+                          "id": "OrrFb",
                           "name": "Button Buy · Sawyer",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -2842,7 +2845,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "TJrtK",
+                              "id": "LUKe3",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · CamelBak",
@@ -2856,7 +2859,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "CrIL2",
+                      "id": "bcrxe",
                       "name": "Share row",
                       "width": "fill_container",
                       "gap": 12,
@@ -2868,7 +2871,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "Y0iyHU",
+                          "id": "b2Uu67",
                           "name": "Name",
                           "fill": "$ink",
                           "textGrowth": "fixed-width",
@@ -2880,7 +2883,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "W0GQZ",
+                          "id": "RCr2S",
                           "name": "Weight",
                           "fill": "$ink",
                           "content": "1.3 oz",
@@ -2891,7 +2894,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "lRKrz",
+                          "id": "le0Z0",
                           "name": "Price",
                           "fill": "$sage",
                           "content": "$3",
@@ -2902,7 +2905,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "ApS4Q",
+                          "id": "U6BOTW",
                           "name": "Button Buy · Sawyer",
                           "fill": "$white",
                           "cornerRadius": 9,
@@ -2917,7 +2920,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "LpcxX",
+                              "id": "exSnG",
                               "name": "Label",
                               "fill": "$ink",
                               "content": "Buy · Smartwater",
@@ -2994,8 +2997,11 @@
         {
           "type": "frame",
           "id": "Ggg44",
+          "x": 0,
+          "y": 1925,
           "name": "Footer",
-          "width": "fill_container",
+          "enabled": false,
+          "width": "fill_container(1440)",
           "fill": "$pine",
           "layout": "vertical",
           "gap": 16,
@@ -3123,10 +3129,13 @@
             {
               "type": "text",
               "id": "X3Nhs",
+              "x": 120,
+              "y": 88,
               "name": "Disclosure",
+              "enabled": false,
               "fill": "$ltm",
               "textGrowth": "fixed-width",
-              "width": "fill_container",
+              "width": "fill_container(1200)",
               "content": "Some Buy links on AerKit may be affiliate links. If you buy through them, AerKit may earn a commission at no extra cost to you — it helps keep the catalog free.",
               "lineHeight": 1.55,
               "fontFamily": "Inter",
@@ -20146,5 +20155,5 @@
       "value": "Inter"
     }
   },
-  "fileToken": "d0f1a2a3-117e-4133-8f57-deff202e310d"
+  "fileToken": "6088cf11-2177-429d-b479-0810e8b1f5e6"
 }
