@@ -1,0 +1,173 @@
+{
+ "slug": "001-grand-canyon-3-day",
+ "num": 1,
+ "title": "Grand Canyon Corridor · 3 Days",
+ "subtitle": "by AerKit · South Kaibab to Bright Angel · November",
+ "source": "https://www.nps.gov/places/000/south-kaibab-trail.htm",
+ "worn_lb": 2.1,
+ "consumable_lb": 8.8,
+ "categories": [
+  {
+   "name": "Sleep system",
+   "items": [
+    {
+     "name": "Enlightened Equipment Revelation 20°F Quilt",
+     "oz": 20.6,
+     "price": 350,
+     "brand": "Enlightened Equipment"
+    },
+    {
+     "name": "Therm-a-Rest NeoAir XTherm NXT",
+     "oz": 15.0,
+     "price": 260,
+     "brand": "Therm-a-Rest"
+    },
+    {
+     "name": "Sea to Summit Aeros Premium Pillow",
+     "oz": 2.6,
+     "price": 55,
+     "brand": "Sea to Summit"
+    }
+   ]
+  },
+  {
+   "name": "Pack",
+   "items": [
+    {
+     "name": "Gossamer Gear Mariposa 60",
+     "oz": 31.5,
+     "price": 295,
+     "brand": "Gossamer Gear"
+    },
+    {
+     "name": "Nylofume pack liner",
+     "oz": 1.0,
+     "price": 12,
+     "brand": "Gossamer Gear"
+    }
+   ]
+  },
+  {
+   "name": "Shelter",
+   "items": [
+    {
+     "name": "Big Agnes Copper Spur HV UL1",
+     "oz": 31.0,
+     "price": 450,
+     "brand": "Big Agnes"
+    },
+    {
+     "name": "Polycryo groundsheet",
+     "oz": 1.5,
+     "price": 15,
+     "brand": "Gossamer Gear"
+    }
+   ]
+  },
+  {
+   "name": "Clothing",
+   "items": [
+    {
+     "name": "Patagonia Nano Puff Hoody",
+     "oz": 12.1,
+     "price": 279,
+     "brand": "Patagonia"
+    },
+    {
+     "name": "Outdoor Research Helium Rain Jacket",
+     "oz": 6.3,
+     "price": 175,
+     "brand": "Outdoor Research"
+    },
+    {
+     "name": "Kahtoola MICROspikes",
+     "oz": 11.6,
+     "price": 75,
+     "brand": "Kahtoola"
+    },
+    {
+     "name": "Black Diamond LightWeight fleece gloves",
+     "oz": 1.4,
+     "price": 30,
+     "brand": "Black Diamond"
+    },
+    {
+     "name": "Darn Tough Hiker Micro Crew socks",
+     "oz": 2.6,
+     "price": 27,
+     "brand": "Darn Tough"
+    },
+    {
+     "name": "Outdoor Research Sun Runner Cap",
+     "oz": 2.7,
+     "price": 45,
+     "brand": "Outdoor Research"
+    }
+   ]
+  },
+  {
+   "name": "Kitchen",
+   "items": [
+    {
+     "name": "MSR PocketRocket Deluxe",
+     "oz": 2.9,
+     "price": 85,
+     "brand": "MSR"
+    },
+    {
+     "name": "TOAKS Titanium 750ml Pot",
+     "oz": 3.6,
+     "price": 40,
+     "brand": "TOAKS"
+    },
+    {
+     "name": "Sea to Summit Alpha Light long spoon",
+     "oz": 0.4,
+     "price": 13,
+     "brand": "Sea to Summit"
+    },
+    {
+     "name": "Mini Bic lighter",
+     "oz": 0.4,
+     "price": 3,
+     "brand": "Bic"
+    }
+   ]
+  },
+  {
+   "name": "Water",
+   "items": [
+    {
+     "name": "Katadyn BeFree 1L filter",
+     "oz": 2.3,
+     "price": 45,
+     "brand": "Katadyn"
+    },
+    {
+     "name": "CamelBak Crux 3L reservoir",
+     "oz": 6.7,
+     "price": 40,
+     "brand": "CamelBak"
+    },
+    {
+     "name": "Smartwater bottle 1L",
+     "oz": 1.3,
+     "price": 3,
+     "brand": "Smartwater"
+    }
+   ]
+  }
+ ],
+ "copy": {
+  "pinterest": {
+   "title": "Grand Canyon 3-Day Backpacking Gear List (South Kaibab to Bright Angel, November)",
+   "description": "A 20-item, 9.84 lb base weight packing list for a 3-day Grand Canyon corridor backpacking trip in November: warm quilt and R7 pad for freezing rim nights, microspikes for icy upper switchbacks, a light puffy and rain shell, and a filter plus 3L of water capacity. Save it for your next canyon permit."
+  },
+  "bluesky": {
+   "text": "Grand Canyon corridor in November, 3 days: rim nights below freezing, river 20+ degrees warmer. Our list lands at a 9.84 lb base weight, with microspikes for the icy South Kaibab switchbacks and an R7 pad for the cold."
+  },
+  "x": {
+   "text": "Grand Canyon corridor, 3 days in November: 20 items, 9.84 lb base weight. Microspikes for icy upper switchbacks, an R7 pad for freezing rim nights, and room for 3L of water."
+  }
+ }
+}
