@@ -1,0 +1,161 @@
+{
+ "slug": "002-joshua-tree-2-day",
+ "num": 2,
+ "title": "Joshua Tree · 2 Days",
+ "subtitle": "by AerKit · Boy Scout Trail · November",
+ "source": "https://www.nps.gov/jotr/planyourvisit/hiking.htm",
+ "worn_lb": 2.5,
+ "consumable_lb": 14.0,
+ "categories": [
+  {
+   "name": "Sleep system",
+   "items": [
+    {
+     "name": "Nemo Disco 15 Sleeping Bag",
+     "oz": 40,
+     "price": 260,
+     "brand": "Nemo"
+    },
+    {
+     "name": "Therm-a-Rest NeoAir XLite NXT",
+     "oz": 12.5,
+     "price": 200,
+     "brand": "Therm-a-Rest"
+    },
+    {
+     "name": "Sea to Summit Aeros Ultralight Pillow",
+     "oz": 2,
+     "price": 45,
+     "brand": "Sea to Summit"
+    }
+   ]
+  },
+  {
+   "name": "Pack",
+   "items": [
+    {
+     "name": "Osprey Exos 58",
+     "oz": 42,
+     "price": 260,
+     "brand": "Osprey"
+    },
+    {
+     "name": "Sea to Summit pack liner",
+     "oz": 3.5,
+     "price": 20,
+     "brand": "Sea to Summit"
+    },
+    {
+     "name": "Black Diamond Trail Trekking Poles",
+     "oz": 18,
+     "price": 110,
+     "brand": "Black Diamond"
+    }
+   ]
+  },
+  {
+   "name": "Shelter",
+   "items": [
+    {
+     "name": "Big Agnes Tiger Wall UL2",
+     "oz": 34,
+     "price": 500,
+     "brand": "Big Agnes"
+    },
+    {
+     "name": "Polycryo groundsheet",
+     "oz": 2,
+     "price": 15,
+     "brand": "Gossamer Gear"
+    }
+   ]
+  },
+  {
+   "name": "Clothing",
+   "items": [
+    {
+     "name": "Patagonia Nano Puff Jacket",
+     "oz": 9.4,
+     "price": 239,
+     "brand": "Patagonia"
+    },
+    {
+     "name": "Smartwool Merino 150 baselayer",
+     "oz": 5.5,
+     "price": 90,
+     "brand": "Smartwool"
+    },
+    {
+     "name": "Outdoor Research Ferrosi Pants",
+     "oz": 12,
+     "price": 99,
+     "brand": "Outdoor Research"
+    },
+    {
+     "name": "Buff wool beanie",
+     "oz": 2,
+     "price": 25,
+     "brand": "Buff"
+    }
+   ]
+  },
+  {
+   "name": "Kitchen",
+   "items": [
+    {
+     "name": "Jetboil Stash",
+     "oz": 7.1,
+     "price": 130,
+     "brand": "Jetboil"
+    },
+    {
+     "name": "Toaks titanium spork",
+     "oz": 0.6,
+     "price": 10,
+     "brand": "Toaks"
+    },
+    {
+     "name": "Petzl Actik Core headlamp",
+     "oz": 2.8,
+     "price": 80,
+     "brand": "Petzl"
+    }
+   ]
+  },
+  {
+   "name": "Water",
+   "items": [
+    {
+     "name": "Platypus 4L Gravityworks",
+     "oz": 11.5,
+     "price": 150,
+     "brand": "Platypus"
+    },
+    {
+     "name": "Sawyer Squeeze filter",
+     "oz": 3,
+     "price": 40,
+     "brand": "Sawyer"
+    },
+    {
+     "name": "Nalgene 1L Wide Mouth",
+     "oz": 6.2,
+     "price": 20,
+     "brand": "Nalgene"
+    }
+   ]
+  }
+ ],
+ "copy": {
+  "pinterest": {
+   "title": "Joshua Tree 2-Day Backpacking Gear List for Cool Desert Nights",
+   "description": "Cold desert nights, warm days: a lightweight 2-day Joshua Tree packing checklist with weights and prices. Plan and share your own gear list on AerKit."
+  },
+  "bluesky": {
+   "text": "Joshua Tree in November: warm days, near-freezing nights, and water you must carry. Here's a 2-day lightweight gear list with weights and prices. Build yours at aerkit.com"
+  },
+  "x": {
+   "text": "Joshua Tree in November: warm days, near-freezing nights, and every drop of water on your back. A 2-day lightweight gear list with weights and prices. Build yours at aerkit.com"
+  }
+ }
+}
